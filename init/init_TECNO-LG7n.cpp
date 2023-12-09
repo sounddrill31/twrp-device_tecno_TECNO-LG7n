@@ -25,11 +25,11 @@ void vendor_load_properties()
     for (const string &prop : prop_partitions)
     {
         property_override(string("ro.product.") + prop + string("brand"), "TECNO");
-        property_override(string("ro.product.") + prop + string("name"), "LH7n-GL");
-        property_override(string("ro.product.") + prop + string("device"), "TECNO-LH7n");
-        property_override(string("ro.product.") + prop + string("model"), "TECNO LH7n");
-        property_override(string("ro.product.") + prop + string("marketname"), "TECNO POVA 5");
-        property_override(string("ro.product.system.") + prop + string("device"), "TECNO POVA 5");
+        property_override(string("ro.product.") + prop + string("name"), "LG7n-GL");
+        property_override(string("ro.product.") + prop + string("device"), "TECNO-LG7n");
+        property_override(string("ro.product.") + prop + string("model"), "TECNO LG7n");
+        property_override(string("ro.product.") + prop + string("marketname"), "TECNO POVA 4");
+        property_override(string("ro.product.system.") + prop + string("device"), "TECNO POVA 4");
     }
     property_override("ro.bootimage.build.date.utc", "1609430400");
     property_override("ro.build.date.utc", "1609430400");

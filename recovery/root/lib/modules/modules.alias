@@ -195,8 +195,8 @@ alias of:N*T*Cmediatek,mt6359p-dynamic_loading_throttling mtk_dynamic_loading_th
 alias of:N*T*Cmediatek,mt6359p-dynamic_loading_throttlingC* mtk_dynamic_loading_throttling
 alias of:N*T*Cmediatek,mt6363-dynamic_loading_throttling mtk_dynamic_loading_throttling
 alias of:N*T*Cmediatek,mt6363-dynamic_loading_throttlingC* mtk_dynamic_loading_throttling
-alias of:N*T*Cft8726,fhdp,dsi,vdo,dsc,tm,tm,120hz,lh7n ft8726_fhdp_dsi_vdo_dsc_tm_tm_120hz_lh7n
-alias of:N*T*Cft8726,fhdp,dsi,vdo,dsc,tm,tm,120hz,lh7nC* ft8726_fhdp_dsi_vdo_dsc_tm_tm_120hz_lh7n
+alias of:N*T*Cft8726,fhdp,dsi,vdo,dsc,tm,tm,120hz,LG7n ft8726_fhdp_dsi_vdo_dsc_tm_tm_120hz_LG7n
+alias of:N*T*Cft8726,fhdp,dsi,vdo,dsc,tm,tm,120hz,LG7nC* ft8726_fhdp_dsi_vdo_dsc_tm_tm_120hz_LG7n
 alias of:N*T*Cmediatek,mt8183-dvfsrc mtk_dvfsrc_regulator
 alias of:N*T*Cmediatek,mt8183-dvfsrcC* mtk_dvfsrc_regulator
 alias of:N*T*Cmediatek,mt6873-dvfsrc mtk_dvfsrc_regulator
@@ -329,8 +329,8 @@ alias of:N*T*Cmediatek,mt6765-cqdma mtk_cqdma
 alias of:N*T*Cmediatek,mt6765-cqdmaC* mtk_cqdma
 alias of:N*T*Cmediatek,charger,pe mtk_pep
 alias of:N*T*Cmediatek,charger,peC* mtk_pep
-alias of:N*T*Cili7807s,fhdp,dsi,vdo,dsc,txd,boe,120hz,lh7n ili7807s_fhdp_dsi_vdo_dsc_txd_boe_120hz_lh7n
-alias of:N*T*Cili7807s,fhdp,dsi,vdo,dsc,txd,boe,120hz,lh7nC* ili7807s_fhdp_dsi_vdo_dsc_txd_boe_120hz_lh7n
+alias of:N*T*Cili7807s,fhdp,dsi,vdo,dsc,txd,boe,120hz,LG7n ili7807s_fhdp_dsi_vdo_dsc_txd_boe_120hz_LG7n
+alias of:N*T*Cili7807s,fhdp,dsi,vdo,dsc,txd,boe,120hz,LG7nC* ili7807s_fhdp_dsi_vdo_dsc_txd_boe_120hz_LG7n
 alias of:N*T*Cmediatek,mt6375 mt6375
 alias of:N*T*Cmediatek,mt6375C* mt6375
 alias of:N*T*Cmediatek,mt6983-disp-tdshp mediatek_drm

@@ -52,7 +52,7 @@
 /lib/modules/mtk_tinysys_ipi.ko: /lib/modules/mtk_rpmsg_mbox.ko /lib/modules/mtk-mbox.ko
 /lib/modules/mtk_dynamic_loading_throttling.ko: /lib/modules/mtk_low_battery_throttling.ko /lib/modules/pmic_lbat_service.ko
 /lib/modules/mtk_dcm.ko:
-/lib/modules/ft8726_fhdp_dsi_vdo_dsc_tm_tm_120hz_lh7n.ko: /lib/modules/transsion_touch.ko /lib/modules/mtk_disp_notify.ko /lib/modules/tran_drm_panel_i2c.ko /lib/modules/mtk_panel_ext.ko
+/lib/modules/ft8726_fhdp_dsi_vdo_dsc_tm_tm_120hz_LG7n.ko: /lib/modules/transsion_touch.ko /lib/modules/mtk_disp_notify.ko /lib/modules/tran_drm_panel_i2c.ko /lib/modules/mtk_panel_ext.ko
 /lib/modules/mtk-dvfsrc-regulator.ko: /lib/modules/mtk-dvfsrc.ko /lib/modules/mtk-scpsys.ko
 /lib/modules/clkbuf.ko:
 /lib/modules/mtk-mbox-mailbox.ko:
@@ -101,7 +101,7 @@
 /lib/modules/extdev_io_class.ko:
 /lib/modules/mtk_pep.ko: /lib/modules/mtk_charger_framework.ko /lib/modules/tran_chg.ko /lib/modules/mtk_charger_algorithm_class.ko /lib/modules/thermal_interface.ko /lib/modules/mtk_gpufreq_wrapper.ko /lib/modules/mtk_gpu_hal.ko /lib/modules/mtk_battery_oc_throttling.ko /lib/modules/mtk_bp_thl.ko /lib/modules/mtk_pbm.ko /lib/modules/mtk_mdpm.ko /lib/modules/mtk_dynamic_loading_throttling.ko /lib/modules/mtk_low_battery_throttling.ko /lib/modules/pmic_lbat_service.ko /lib/modules/gpueb.ko /lib/modules/mtk_tinysys_ipi.ko /lib/modules/mtk_rpmsg_mbox.ko /lib/modules/mtk-mbox.ko /lib/modules/mtk-ssc.ko /lib/modules/tinysys-scmi.ko /lib/modules/charger_class.ko /lib/modules/adapter_class.ko /lib/modules/transsion_tranlog.ko /lib/modules/aee_aed.ko /lib/modules/mrdump.ko
 /lib/modules/clk-mt6789-bus.ko: /lib/modules/clk-common.ko /lib/modules/aee_aed.ko /lib/modules/mrdump.ko
-/lib/modules/ili7807s_fhdp_dsi_vdo_dsc_txd_boe_120hz_lh7n.ko: /lib/modules/transsion_touch.ko /lib/modules/mtk_disp_notify.ko /lib/modules/tran_drm_panel_i2c.ko /lib/modules/mtk_panel_ext.ko
+/lib/modules/ili7807s_fhdp_dsi_vdo_dsc_txd_boe_120hz_LG7n.ko: /lib/modules/transsion_touch.ko /lib/modules/mtk_disp_notify.ko /lib/modules/tran_drm_panel_i2c.ko /lib/modules/mtk_panel_ext.ko
 /lib/modules/mtk-ssc.ko: /lib/modules/tinysys-scmi.ko /lib/modules/aee_aed.ko /lib/modules/mrdump.ko
 /lib/modules/log_store.ko:
 /lib/modules/mt6375.ko:

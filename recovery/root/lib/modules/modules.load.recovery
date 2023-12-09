@@ -60,8 +60,8 @@ cmdq_helper_inf.ko
 mtk-mml.ko
 mtk_panel_ext.ko
 tran_drm_panel_i2c.ko
-ili7807s_fhdp_dsi_vdo_dsc_txd_boe_120hz_lh7n.ko
-ft8726_fhdp_dsi_vdo_dsc_tm_tm_120hz_lh7n.ko
+ili7807s_fhdp_dsi_vdo_dsc_txd_boe_120hz_LG7n.ko
+ft8726_fhdp_dsi_vdo_dsc_tm_tm_120hz_LG7n.ko
 mediatek-drm.ko
 aee_rs.ko
 mmprofile.ko
